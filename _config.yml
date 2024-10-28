@@ -1,5 +1,8 @@
 title: Theo Munoz
+##Image
 logo: assets/img/Headshot.jpg
+#Desciption of Image
 description: Theo Munoz
 show downloads: true
+#Theme of the Page
 theme: jekyll-theme-minimal
