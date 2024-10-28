@@ -8,7 +8,7 @@
 ---
 
 ### Education
-- **Masters in Data Analytics with embassies in Data Science Projects of predictive modeling**  
+- **Masters in Data Analytics with emphasis in Data Science Projects of Predictive Modeling**  
   Pennsylvania State University, State College, PA  
   **GPA:** 3.8  
   **Graduation Date:** December 2023
