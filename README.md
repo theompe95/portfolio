@@ -1,4 +1,4 @@
-# Data Scientis
+# Data Scientist
 
 ### Contact Information
 **Location:** Charlotte, NC 28209  
